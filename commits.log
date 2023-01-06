@@ -1,0 +1,92 @@
+commit ed7f7ecf4cb0e5962c7c7a7d5bf075ed1d4c7c41
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 18:16:04 2023 -0300
+
+    Agregando los párrafos
+
+commit 6add66d4297c3c39218665e18589ae716c29d0ac
+Merge: 2504435 8fe1d6f
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 18:13:59 2023 -0300
+
+    Resolviendo conflicto con estaciones del año y fecha de inicio
+
+commit 2504435203117660f3c8b8e551d0221f3d3e8a10
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 17:57:06 2023 -0300
+
+    Agregando estaciones del año con fecha
+
+commit 8fe1d6fa293e6572459bdde48131d66ad8a862c3
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 17:57:06 2023 -0300
+
+    Se agrego las estaciones del año
+
+commit 1831908fec8bc3ed8b107c3afb9498ebf1b850bd
+Merge: 94dfd8c fc3eb03
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 16:05:08 2023 -0300
+
+    Merge branch 'html'
+
+commit fc3eb03baa946a568c337ff257fd48d9573847ce
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 16:00:29 2023 -0300
+
+    Agregando index.js al index.html
+
+commit 94dfd8c63c2b8f1cac6ea5a0ef59ce1998a9ad95
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 15:59:02 2023 -0300
+
+    Agregando el style.css al index.html
+
+commit ab1b443f375a52149fd1f1f456cf7e76e3f36652
+Merge: 09fa247 22507e9
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 15:12:31 2023 -0300
+
+    Merge branch 'js'
+
+commit 22507e9f1a6d669ccc5236e7e804d13bd1ad12b6
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 15:04:15 2023 -0300
+
+    Creando archivo JavaScript
+
+commit 09fa247cb5aaa50d01f655a6e95dce7b62f13caa
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 14:41:10 2023 -0300
+
+    Creando style.css
+
+commit 71afceb17782235c5b873ea90f6ac942fe07ac65
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 14:36:04 2023 -0300
+
+    First commit
+
+commit 0fbb866307dc6a8e320413c5fa763ffc63d1b3b9
+Author: Leonardo-Rozza <100054079+Leonardo-Rozza@users.noreply.github.com>
+Date:   Fri Jan 6 12:54:33 2023 -0300
+
+    Creando una licencia.
+
+commit 6521f723c60e02e02b76f637474282e827af17d1
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 12:17:36 2023 -0300
+
+    Mas modificaciones al README.
+
+commit a1f02827d8c646de93d243182a33014256352c05
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 12:06:25 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit 447bb3188b11ecf1ac82a3ac263f3a2a0fa00f68
+Author: Leonardo-Rozza <leonardo155964@gmail.com>
+Date:   Fri Jan 6 12:02:49 2023 -0300
+
+    Primer commit
